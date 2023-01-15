@@ -1,7 +1,8 @@
 # Jean Machado 
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmachadocx&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmachadocx&layout=compact)](https://github.com/anuraghazra/github-readme-statsicons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmachadocx&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -16,7 +17,8 @@
 
 </div><br>
 
-Tenho 20 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e games!  Caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Sinta-se à vontade para entrar em contato comigo!
+Tenho 20 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e games!  Caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! <br>
+Sinta-se à vontade para entrar em contato comigo!
 
 
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlo-machado-616443207/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jean__machado/)
