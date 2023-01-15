@@ -1,4 +1,6 @@
-# Jean Machado 
+# Jean Machado <br>
+
+Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/MG. Sou apaixonado por programação e games!  Caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! <br>
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmachadocx&show_icons=true&theme=dracula)
 
@@ -17,8 +19,10 @@
 
 </div><br>
 
-Tenho 20 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e games!  Caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! <br>
+
+
 Sinta-se à vontade para entrar em contato comigo!
+
 
 
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlo-machado-616443207/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jean__machado/)
