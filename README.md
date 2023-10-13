@@ -1,6 +1,6 @@
 # Jean Machado <br>
 
-Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/MG. Atualmente sou estagiário de Operações no Banco Semear, onde atuo como suporte. <br>
+Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/MG. Atualmente sou estagiário de Operações no Banco Semear, onde faço parte do time de Operações. <br>
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmachadocx&show_icons=true&theme=dracula)
 
