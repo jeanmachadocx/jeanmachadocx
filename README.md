@@ -6,7 +6,7 @@ Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/M
 Java <br> 
 C# <br> 
 Javascript <br> 
-Kotlin (Mobile)  <br>
+Kotlin  <br>
 Banco de dados: SQL, MYSQL <br> 
 
 
