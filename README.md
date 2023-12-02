@@ -6,7 +6,6 @@ Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/M
 Java <br> 
 C# <br> 
 Javascript <br> 
-Angular  <br>
 Banco de dados: SQL, MYSQL <br> 
 
 
