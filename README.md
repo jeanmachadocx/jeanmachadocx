@@ -1,6 +1,6 @@
 # Jean Machado <br>
 
-Estudante de Sistemas de informação, tenho 20 anos, e moro em Belo Horizonte/MG. Atualmente sou estagiário no Banco Semear, onde faço parte do time de Operações. <br>
+Estudante de Sistemas de informação, tenho 21 anos, e moro em Belo Horizonte/MG. Atualmente sou estagiário no Banco Semear, onde faço parte do time de Operações. <br>
 
 <b> Habilidades:</b> <br> 
 Java <br> 
