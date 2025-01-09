@@ -4,7 +4,7 @@ Estudante de Sistemas de informação na PUC MINAS,  moro em Belo Horizonte/MG. 
 
 <b> Habilidades:</b> <br> 
 Java <br> 
-Spring <br>
+Python <br>
 C# <br> 
 Javascript <br> 
 Banco de dados: SQL, MYSQL <br> 
