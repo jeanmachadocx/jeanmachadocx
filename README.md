@@ -1,6 +1,6 @@
 # Jean Machado <br>
 
-Estudante de Sistemas de informação na PUC MINAS,  moro em Belo Horizonte/MG. Atualmente trabalho na ArcelorMittal com SAP já atuei na área de infraestrutura do Banco Semear. <br>
+Estudante de Sistemas de informação na PUC MINAS,  moro em Belo Horizonte/MG. Atualmente trabalho  na iT-eam como System administrator, já atuei na área de infraestrutura do Banco Semear e na ArcelorMittal com SAP no módulo de HCM. <br>
 
 <b> Habilidades:</b> <br> 
 Java <br> 
